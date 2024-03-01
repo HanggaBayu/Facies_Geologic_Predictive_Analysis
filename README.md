@@ -1,4 +1,5 @@
 # Laporan Proyek Machine Learning - Hangga Bayu Krisna
+Proyek pertama predictive analytics untuk memenuhi submission dicoding
 **Topik dari proyek ini adalah Facies Classification Using Various Machine Learning Methods**
 
 ## Domain Proyek
